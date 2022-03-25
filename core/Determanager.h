@@ -22,7 +22,7 @@ OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWA
  Otherwise, each found a solution go out.*/
 //=================================================================================================
 
-using namespace Minisat;
+using namespace Manysat;
 
 lbool Solver::importClauses(Cooperation* coop) {
   

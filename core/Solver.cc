@@ -25,7 +25,7 @@
 #include "core/Cooperation.h"
 #include "core/Determanager.h"
 
-using namespace Minisat;
+using namespace Manysat;
 
 //=================================================================================================
 // Options:

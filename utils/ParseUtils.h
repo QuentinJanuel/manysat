@@ -18,15 +18,15 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 **************************************************************************************************/
 
-#ifndef Minisat_ParseUtils_h
-#define Minisat_ParseUtils_h
+#ifndef Manysat_ParseUtils_h
+#define Manysat_ParseUtils_h
 
 #include <stdlib.h>
 #include <stdio.h>
 
 #include <zlib.h>
 
-namespace Minisat {
+namespace Manysat {
 
 //-------------------------------------------------------------------------------------------------
 // A simple buffered character stream class:

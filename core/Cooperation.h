@@ -21,7 +21,7 @@ OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWA
 #include "core/Solver.h"
 
 
-namespace Minisat {
+namespace Manysat {
 
 //=================================================================================================
 // Options:
@@ -76,7 +76,7 @@ Description:
     char		ctrl;					// activate control clause sharing size mode
     double		aimdx, aimdy;				// aimd control approach {aimdx, aimdy are their parameters} 	  
     int**		pairwiseImportedExtraClauses;		// imported clause of for and from each thread
-    bool		deterministic_mode;			// running Minisat in deterministic mode
+    bool		deterministic_mode;			// running Manysat in deterministic mode
     
     //=================================================================================================
     
